@@ -32,13 +32,12 @@ To simplify the analysis, I will perform the value rankings first and will delet
 
 # Results
 
-After modeling was complete for each of the top 10 value stocks, I summarized the percentage growth between the end of the timeseries data and the end of the foreacst:
+After modeling was complete for each of the top 10 value stocks, I summarized the percentage growth between the end of the timeseries data and the end of the 1-year foreacst:
 
 <img src='Images/Results.png' width=70%>
 
-The table shows 2 main points:
-1. The addition of the predicted future growth has changed the view of which stocks are valuable to invest in as there are stocks with high value and both high and low growth potential
-2. The granularity of the ranking is not sufficient when only modeling 10 stocks. This is shown by duplicate rankings in the Total Ranking column. As more stocks are modeled, the rankings will become more unique. 
+The table shows that the addition of the predicted future growth has improved the view of which stocks should be bought. Although all the stocks are highly valuable, only half show future positive growth in revenue per share.
+
 
 # Conclusions
 
